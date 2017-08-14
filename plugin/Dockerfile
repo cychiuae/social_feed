@@ -1,1 +1,1 @@
-FROM quay.io/skygeario/py-skygear:latest-onbuild
+FROM quay.io/skygeario/py-skygear:v0.24.0-onbuild
